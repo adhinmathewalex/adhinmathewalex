@@ -6,12 +6,12 @@
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to listen to music and play football
-<br>
-### Connect with me:
 
-&nbsp;
-[![website]https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"](https://in.linkedin.com/in/adhin-mathew-alex-7a216a221)
-<br>
+###Connect with me:
+
+
+[![website](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg")](https://in.linkedin.com/in/adhin-mathew-alex-7a216a221)
+
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
@@ -24,7 +24,6 @@
 [<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Fullter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding-right:10px;" />]
-<br />
 
 <details>
   <summary>:zap: GitHub Stats</summary>
