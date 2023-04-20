@@ -10,7 +10,7 @@
 ### Connect with me:
 
 &nbsp;
-[![website]("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg")](https://in.linkedin.com/in/adhin-mathew-alex-7a216a221)
+[![website]https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"](https://in.linkedin.com/in/adhin-mathew-alex-7a216a221)
 <br>
 ### Languages and Tools:
 
