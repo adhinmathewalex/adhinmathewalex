@@ -9,9 +9,7 @@
 
 ### Connect with me:
 
-<br>
-[<img align="left" alt="Linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" >](https://in.linkedin.com/in/adhin-mathew-alex-7a216a221)
-</br>
+[<img align="left" alt="Linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://in.linkedin.com/in/adhin-mathew-alex-7a216a221)
 
 
 ### Languages and Tools:
