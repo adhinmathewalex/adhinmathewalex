@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://in.linkedin.com/in/adhin-mathew-alex-7a216a221)
+[<img align="left" alt="Linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />][linkedin]
 
 
 ### Languages and Tools:
@@ -25,6 +25,10 @@
 [<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding-right:10px;" />]
 
+</br>
+</br>
+
+---
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -35,4 +39,4 @@
 
 
 
-
+[linkedin]:https://in.linkedin.com/in/adhin-mathew-alex-7a216a221
