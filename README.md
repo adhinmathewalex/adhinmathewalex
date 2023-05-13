@@ -1,11 +1,14 @@
 # Hi there, I'm Adhin Mathew Alex 👋 
 
+![adhinmathewalex's Profile views](https://komarev.com/ghpvc/?username=adhinmathewalex&theme=tokyonight)
+<br>
 
 ## I'm a Student Developer!!
 
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to listen to music and play football
+- - 📫 How to reach me: <a href="adhinmathewalex@gmail.com">adhinmathewalex@gmail.com</a>
 
 ### Connect with me:
 
@@ -14,18 +17,16 @@
 
 
 ### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Blender" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding-right:10px;" />]
-&nbsp;&nbsp;
+<p align="left" margin-left="10px"> <a img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/> </a> 
+<a img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> </a> 
+<a img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> </a> 
+<a img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> </a> 
+<a img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a> 
+<a img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/> </a> 
+<a img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> 
+<a img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a> 
+<a img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a> 
+<a img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/> </a> 
 
 ---
 
